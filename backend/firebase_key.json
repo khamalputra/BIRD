@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "digital-marketing-assist-9e5be",
+    "private_key_id": "832f69e17ecdd1e21933de8d140234d3e0dd7224",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1q1CD3G1aAu+W\nE8T1EchHb68wPeZ850/AJ8FosWdyEyFDmW42I6SCDoYQE9i3oDAUPLG+V4JUMKL6\npCFgzO1+uIj+9W+SJxePyg+6V6UMwPiDKc3AdViLuNJlixyiG5eHJOr2GisVmAzk\njiyRUS3UYo7PqFy+TFEpkvyl/vtdcFYdxio32+lld8VZW1hqVt8IJlKvE74Gg383\ndnr4tUGeNuuq/hb3CVUw+31FNpKQCew4PFdtqculjtEhEIcn+ToyRhCK83fMVxR7\ngUYlMlhsiU+1IQVjAvhBILTzcum7JRKbQej9udLHVYA4RwXMVmDs2SvI/iSmcjFE\nfshVT6AHAgMBAAECggEAAavEhWuSBFGIMdGXIchUfUO4hGStXNmL0QqmK5GMkAhy\nnK3DZvNHYHx3UAKLhcGoosCdw4Ohvg1MeN21nBXs2ua7nwy6EzARqWlRLh3/dXFf\nV8vn1pNXVltDpCd2NfXnAn+c1NkP+GNG1+G7sZwVJDtb11EguUD4DIsLkKm0I8hD\nj+2eJleTIy4fCr5b7Q/BwwRv+87dfePGE1NfNpTORfKtE/OZF+SnXvAS50nxIxlE\nSZz6qFKjzYHT5Ambcq0NjoRlmcNVI/m1acSfO/Eb4rxt+yNBKJNDkDV1t2MYmvAM\nlzSuBDHkCqjseL2s8sGViANNc9SfyJGGnUz/gAxngQKBgQDjNBHd8vAxqBY9LsO3\nYr8Cyl+gZOxe+TFqUfs7A+Jpy1kSqlg1Cv+da98KijsO6IstXcmJa8No3l/Gszxx\nbv47LgCrNUH+4USG/Fi4DurtqpYhYm+pN/Nux2IXQtPbgJ45xMgYt7tW21mByq+m\nn9DkkhqV9aopnOZGBizmcNx1ZwKBgQDMsdMDEhNZeph6Cg+didnubcQQICyYUZUG\n1u/k7H3iCSmvdOT4uzi+6ILHmSiFFLju5MhOY4k92l3XhinreTwhARAs3mKbW1aX\nklbYQJoMix3awkjugH9s0id1v+eYUl71A3ZoG+ee2hPOKAzi+4qhN+fr+uBKXx3Z\nDj1/QsU8YQKBgQDF4LWm7kzPkqs7whzm/POLBKJgWUWcOcAV7yy1a16n8Vi0bvO/\nzsJtYmOxFE73XwTIECTUsKxSC0qzDauYx6hX9mrSseG2kI9UWTcTprppH+b9UHQb\nlwVG+BOwWp2VUOF9QqtbC7n3nbbI2bQ9lHckezL4ZCs9bs8HMZ2tXaJEBQKBgH4Q\nfm6DsVsIP+PZUmipv4gyHe/4gL6GcAu4UCJi69xL3Fps2Z++XmJk/DZFQ0lCy+qF\nCEAO2TU4yVa1EBgvoDKLXxTjGUOo6xmKTOX+U2GqRAa4ZQZOKSwx+Y9xUwbipAyt\nxzyzAuE4Wb47uEQKuwQzVChnZ78l+VH2jTVVP/fBAoGAThuwyqFYUXpB1iMXPW1O\naWxpT1HMJl7LlwjSwWuvXDuGoLsGlHFSQzxL7ZpCuH6B5gzhGV7MWPFOM7NrGjtb\nzBaTyFJFeLu2wOpoSXJP+8CX6PpF3dBeH62Bl5BlXqWCNmVARr+TVOvJwzwE3cSl\nUbqvGVOsqRAh/Wnd4d2ADiQ=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-wevi6@digital-marketing-assist-9e5be.iam.gserviceaccount.com",
+    "client_id": "112406099800138571465",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wevi6%40digital-marketing-assist-9e5be.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }  
